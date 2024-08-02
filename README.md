@@ -3,13 +3,16 @@ I'm **Mouhamadou Moustapha Gueye**, a FullStack Developer based in Dakar, Senega
 
 ## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,php,symfony" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,php" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,spring,flutter,mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=symfony,angular,spring,flutter" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=oracle,softr,airtable,trello,windows,linux,ps,ai,canva,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,windows,linux,softr,airtable,trello,ps,ai,canva,figma" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=softr,airtable,trello,ps,ai,canva,figma" />
 </p>
 
 
