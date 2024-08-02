@@ -9,10 +9,7 @@ I'm **Mouhamadou Moustapha Gueye**, a FullStack Developer based in Dakar, Senega
   <img src="https://skillicons.dev/icons?i=symfony,angular,spring,flutter" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,windows,linux" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,canva,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,windows,linux,figma" />
 </p>
 
 
