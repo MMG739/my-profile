@@ -2,7 +2,7 @@
 I'm **Mouhamadou Moustapha Gueye**, a FullStack Developer based in Dakar, Senegal. I'm passionate about creating innovative technological solutions and currently pursuing a degree in Software Engineering.
 
 ## Skills
-<p align="center" width="50">
+<p align="center" width="30">
   <img src="https://skillicons.dev/icons?i=js,java,python,php,symfony,angular,spring,flutter,mysql,oracle,softr,airtable,trello,windows,linux,ps,ai,canva,figma" />
 </p>
 
