@@ -2,7 +2,12 @@
 I'm **Mouhamadou Moustapha Gueye**, a FullStack Developer based in Dakar, Senegal. I'm passionate about creating innovative technological solutions and currently pursuing a degree in Software Engineering.
 
 ## Skills
-- **Programming Languages**: PHP, Java, JavaScript, Python
+- **Programming Languages**:
+  !JavaScript
+  !PHP
+  !Python
+  !HTML5
+  !CSS3
 - **Frameworks**: Symfony, Angular, Spring, Flutter
 - **Databases**: SGBD, SQL, SQLserver, Oracle
 - **No-Code Tools**: Softr, Airtable
